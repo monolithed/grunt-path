@@ -1,7 +1,8 @@
 # grunt-path
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
-[![NPM](https://nodei.co/npm/docstring.png?downloads=true)](https://nodei.co/npm/docstring/)
+
+[![NPM](https://nodei.co/npm/docstring.png?downloads=true)](https://nodei.co/npm/grunt-path/)
 
 
 > Returns information about each file in the specified directory
