@@ -108,11 +108,4 @@ This task supports all the file mapping format Grunt supports. Please read [Glob
 ]
 ```
 
-### Testing
-
-```js
-grunt test
-```
-
-
 Task submitted by [Alexander Abashkin](https://github.com/monolithed)
