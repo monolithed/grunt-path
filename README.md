@@ -2,7 +2,7 @@
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
-[![NPM](https://nodei.co/npm/docstring.png?downloads=true)](https://nodei.co/npm/grunt-path/)
+[![NPM](https://nodei.co/npm/grunt-path.png?downloads=true)](https://nodei.co/npm/grunt-path/)
 
 
 > Returns information about each file in the specified directory
