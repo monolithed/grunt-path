@@ -1,12 +1,12 @@
 {
 	"name"   : "grunt-path",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author" : "Abashkin Alexander <monolithed@gmail.com>",
 	"homepage": "https://github.com/monolithed/grunt-path.git",
 
 	"description": "Returns information about each file in the specified directory",
 
-	"keywords": [ "grunt", "file", "path", "folder", "directory", "hash", "sum" ],
+	"keywords": [ "grunt", "file", "path", "folder", "directory", "hash", "sum", "md5", "md5sum", "sha1", "sha256", "sha512" ],
 
 	"man": "README.md",
 

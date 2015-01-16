@@ -45,7 +45,7 @@ The indent argument may be used to control spacing in the final string. If it is
 
 
 #### process
-Type: `Function(content, files)`
+Type: `Function(/* [ ...{ file, hex } ], [ ...files ] */)`
 
 This option as an advanced way to control the file contents that are created.
 
@@ -102,7 +102,7 @@ This task supports all the file mapping format Grunt supports. Please read [Glob
 ```
 [
 	{
-		"file": "path/file.txt",
+		"file": "path/file.json",
 		"hash": "d8e8fca2dc0f896fd7cb4cb0031ba249"
 	}
 ]

@@ -18,7 +18,7 @@ module.exports = function (grunt) {
 			indent: '\t'
 		});
 
-		var data = []
+		var data = [];
 
 		this.files.forEach(function (files) {
 			files.src.forEach(function (file) {
@@ -46,7 +46,7 @@ module.exports = function (grunt) {
 			var content = JSON.stringify(data, null, options.indent);
 
 			if (options.process) {
-				content = options.process(data, files);
+				content = options.process(data, files.src);
 			}
 
 			grunt.file.write(files.dest, content);
